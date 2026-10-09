@@ -1,10 +1,10 @@
 # HELLO-WORLD
 My first practice repository
 # Table of Contents
-[Project]
-[Project Description]
-[Tools Used]
-[Files Used]
+1. [Project](#Project)
+2. [Project Description](#ProjectDescription)
+3. [Tools Used](#ToolsUsed)
+4. [Files Used](#FilesUsed)
 
 # Project
 Project in progress: Business Analytics Project
